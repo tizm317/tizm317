@@ -1,6 +1,6 @@
 ### 안녕하세요 성장하는 개발자 이호영입니다.👋
 
-#### [노션 포트폴리오](https://bush-wolfsbane-e95.notion.site/cd8996dda50d458fa8e3bc46438e524a)
+#### [노션 포트폴리오](https://bush-wolfsbane-e95.notion.site/28946931056e47f2a0cda9b108a77550)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftizm317)](https://hits.seeyoufarm.com)
 <!--
