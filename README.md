@@ -5,12 +5,12 @@
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 </a>
 
-**[블로그] :**
+**[공부용 블로그] :**
 <a href="https://blog.naver.com/bmc4886">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 </a>
 
-**[유튜브] :**
+**[게임 제작 영상 유튜브] :**
 <a href="https://www.youtube.com/channel/UCUlkjmUUSAl5dsktN1UWkiw/videos">
 		<img src="https://img.shields.io/badge/youtube-FF0000?style=flat&logo=youtube&logoColor=white" />
 </a>
