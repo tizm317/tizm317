@@ -1,6 +1,20 @@
 ### 안녕하세요 성장하는 개발자 이호영입니다.👋
 
-#### [노션 포트폴리오](https://bush-wolfsbane-e95.notion.site/28946931056e47f2a0cda9b108a77550)
+**[포트폴리오] :**
+<a href="https://bush-wolfsbane-e95.notion.site/28946931056e47f2a0cda9b108a77550">
+		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+</a>
+
+**[블로그] :**
+<a href="https://blog.naver.com/bmc4886">
+		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
+</a>
+
+**[유튜브] :**
+<a href="https://www.youtube.com/channel/UCUlkjmUUSAl5dsktN1UWkiw/videos">
+		<img src="https://img.shields.io/badge/youtube-FF0000?style=flat&logo=youtube&logoColor=white" />
+</a>
+<br/><br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftizm317)](https://hits.seeyoufarm.com)
 <!--
@@ -27,3 +41,4 @@ Here are some ideas to get you started:
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/></a>
+
