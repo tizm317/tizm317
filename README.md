@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C%23-99CC00?style=flat-square&logo=csharp&logoColor=white"/></a>
-
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/></a>
 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Unity-FAFAFA?style=flat-square&logo=Unity&logoColor=black"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Cocos2dx-55C2E1?style=flat-square&logo=Cocos&logoColor=black"/></a>
